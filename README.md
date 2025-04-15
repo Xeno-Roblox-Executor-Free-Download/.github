@@ -4,6 +4,7 @@
 ### **🚀 About Xeno Executor**  
 Xeno Executor is the **sleek, ultra-fast, and undetected** script executor revolutionizing Roblox gameplay in 2025 . Designed for both PC and mobile, it combines **cutting-edge security** with a **user-friendly interface** to unlock endless possibilities in games like *Rivals* .  
 
+[![Download Xeno](https://img.shields.io/badge/Download-Xeno-blueviolet)](https://rblxexecutors.github.io/executors/xeno/)
 ---
 
 ### **✨ Key Features**  
